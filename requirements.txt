@@ -3,4 +3,4 @@ openai
 pinecone-client
 python-dotenv
 doublemetaphone
-difflib
+
